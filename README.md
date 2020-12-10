@@ -5,86 +5,31 @@ This is the documentation about the one and only RulesBot for your discord serve
 ## Getting Started
 
 To use RulesBot you nedd to invite the bot first to your discord server. You can invite it [HERE](https://imposdev.eu/redirect) 
+
 ### Prerequisites
 
-What things you need to install the software and how to install them
+You need a discord account and a existing server. Also there should be also roles and basic channel managememt. You can find a tutorial how to set the bot up [HERE](https://www.youtube.com/watch?v=Xqfm-Cg531o&list=PLd91el2yAr8hYo8virA9LB_PJ3kpDa4Nk&ab_channel=ImposDevelopment)
+
+## List of commands
+
+Here is a list of commands RulesBot is listening to (replace the standard prefix r! with your prefix if you have the premium version):
 
 ```
-Give examples
+r!setup > Setup manager of RulesBot
+r!help > Basic help page
+r!stats > Stats for the global bot
+r!reset > Reser the whole config for your server
 ```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [BungeeCord](https://ci.md-5.net/job/BungeeCord/) - BungeeCord as simple framework
 * [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+* [JDA](https://github.com/DV8FromTheWorld/JDA) - Discord Java API
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
+* **Espen** - *Anything* - [Espen](https://github.com/EhreGetaken
 
 <a href="https://top.gg/bot/677184239472607299">
     <img src="https://top.gg/api/widget/677184239472607299.svg" alt="RulesBot" />
