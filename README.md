@@ -29,7 +29,7 @@ r!reset > Reser the whole config for your server
 
 ## Authors
 
-* **Espen** - *Anything* - [Espen](https://github.com/EhreGetaken
+* **Espen** - *Anything* - [Espen](https://github.com/EhreGetaken)
 
 <a href="https://top.gg/bot/677184239472607299">
     <img src="https://top.gg/api/widget/677184239472607299.svg" alt="RulesBot" />
